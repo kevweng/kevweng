@@ -1,7 +1,6 @@
-- 👋 Hi, I’m kevin weng
-- 👀 I’m interested in quantitative trading and research
-- 🌱 I’m currently studying mathematics + statistics
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Kevin!
+- 👀 I’m interested in quantitative trading and research.
+- 🌱 I’m currently studying mathematics + statistics.
 - 📫 How to reach me: kevinweng@g.ucla.edu
 
 <!---
